@@ -3,7 +3,7 @@
 	$xh = "";
 	$password = "";
 	include("../qzjw.class.php");
-	$qz = new QZAPI("http://jwxt.gduf.edu.cn/app.do");
+	$qz = new QZAPI("http://YOUR_SITE/app.do");
 	$auth = $qz->authUser($xh,$password);
 	$token = $auth['token'];
 	if($token == -1) exit("用户名或密码错误");
