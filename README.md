@@ -3,6 +3,8 @@
 
 根据[GDUF-QZAPI][1]列出的API封装的PHP类。由智校园APP抓包得出，兼容可使用智校园APP的其它学校的强智教务系统。
 
+对教务系统周边的开发有兴趣或关于本项目有疑问的都可加群：743138676交流。
+
 [1]: https://github.com/TLingC/GDUF-QZAPI
 
 ## 例程
